@@ -46,7 +46,7 @@ M2 en Analyse Numérique et Modélisation - Université de Montpellier
 
 ## 💻 Compétences Techniques
 
-- **Logiciels**: Math Lab, C++, Freefem, Octave, Beamer, Latex, Maple, Microsoft Office (Word, Excel, PowerPoint, Access)  
+- **Logiciels**: Math Lab, C++, Freefem, Octave,Python, Beamer, Latex, Maple, Microsoft Office (Word, Excel, PowerPoint, Access)  
 - **Compétences en Modélisation Mathématique**: Méthodes numériques, optimisation des modèles.  
 - **Aptitudes**: Excellente communication, travail en équipe et adaptation aux nouvelles situations.
 
